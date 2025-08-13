@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 B.Tech CSE Student<br>🤖 Passionate about AI, Machine Learning, and Data Science<br>💻 Skilled in Python, C, C++, JavaScript<br>📊 Learning ML algorithms and data analysis<br>🚀 Interested in building real-world AI applications<br>🌱 Open to collaborating on AI/ML and data projects
+🎓 <b>B.Tech CSE Student<br>🤖 Passionate about AI, Machine Learning, and Data Science<br>💻 Skilled in Python, C, C++, JavaScript<br>📊 Learning ML algorithms and data analysis<br>🚀 Interested in building real-world AI applications<br>🌱 Open to collaborating on AI/ML and data projects<b/>
 
 
 ## 🌐 Socials:
